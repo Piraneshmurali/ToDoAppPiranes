@@ -19,3 +19,13 @@ Edit Task: Users can update the details of an existing task, including changing 
 4. Task Deletion-
 Delete Task: Users can delete tasks that are no longer needed. Deleted tasks are removed from the task list.
 
+Installation
+
+Clone the repository: git clone https://github.com/yourusername/To-Do-App.git
+Open the project in Android Studio.
+Sync the project with Gradle files.
+Build and run the app on an emulator or physical device.
+Usage
+Open the To-Do App on your mobile device.
+Create a new task by tapping the "Add" button.
+View, edit, or delete tasks from the task list.
